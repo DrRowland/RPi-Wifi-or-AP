@@ -6,7 +6,7 @@ This script is for OSX only and copies a raspbian image onto a SD card making so
 It requires fuse-ext2, a raspbian image, and needs manual configuration to make it work.
 If you do use it, then it is at your own risk.
 
-1. Use df -h to figure out the disk.
+1. Use df -h to figure out the name of your SD disk device.
 2. Edit setupSD.sh to use this disk (and remove the warning and early exit).
 3. Edit the wpa_supplicant.conf with your own wifi configuration.
 4. sudo ./setupSD.sh
