@@ -5,7 +5,7 @@ echo Note, this script is for OSX only and needs editing.
 echo Do not use this file if you do not understand how.
 echo \$disk needs a good value or you risk losing your data.
 echo Use "df -h" to find out the name of your SD disk device.
-echo Also, fuse-ext2 also needs to be installed.
+echo Also, fuse-ext2 needs to be installed.
 exit 1
 
 umount /Volumes/boot
