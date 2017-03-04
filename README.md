@@ -12,5 +12,5 @@ If you do use it, then it is at your own risk.
 4. sudo ./setupSD.sh
 5. Put the SD card in the RPi and boot.
 6. You should be able to connect via ssh.
-7. untar the AP.tar, cd AP, and run sudo ./setup.sh (answer yes to any installs).
-8. sudo ./AP.sh off or sudo ./AP.sh off to switch between access point and regular mode.
+7. Untar the AP.tar file, cd AP, and run sudo ./setup.sh (answer yes to any installs).
+8. sudo ./AP.sh off or sudo ./AP.sh off will switch between access point and regular mode.
