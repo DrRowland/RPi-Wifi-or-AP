@@ -1,6 +1,6 @@
 # RPi-Wifi-or-AP
 
-This repo is primarily a note to myself regarding how to setup an RPi Zero W as an access point.
+This repo is primarily a note to myself regarding how to setup the RPi Zero W to connect to a WiFi network (settings for BTHomeHub6) and optionally set it as an access point (i.e. one without access to the internet).
 
 This script is for OSX only and copies a raspbian image onto a SD card making some tweaks.
 It requires fuse-ext2, a raspbian image, and needs manual configuration to make it work.
